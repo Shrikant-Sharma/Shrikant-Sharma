@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Shrikant-Sharma
 - 👀 I’m interested in Data Science, Machine Learning, and Data Analysis projects
-- 🌱 I’m currently doing Masters in Data Analytics 
+- 🌱 I’m Masters in Data Analytics with 4.2 years of experience in Data, Business, and Analytics.
 - 💞️ I’m looking to collaborate on Data related projects
 - 📫 How to reach me shrikant.sharma@outlook.com
 
