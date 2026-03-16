@@ -1,8 +1,14 @@
-- 👋 Hi, I’m @Shrikant Sharma
-- 👀 I’m interested in Data Science, Machine Learning, and Data Analysis projects
-- 🌱 I’m Masters in Data Analytics with 7 years of experience in Data, Business, and Analytics.
-- 💞️ I’m looking to collaborate on data-related projects
-- 📫 How to reach me shrikant.sharma@myyahoo.com
+## Hi, I'm Shrikant 👋
+Data Scientist with 7+ years across pharma (Amgen) and financial services (American Express).
+
+**What I work with:** Python, Scikit-learn, XGBoost, PyTorch, SQL, Tableau, AWS, Databricks
+
+**Currently building:**
+- 🏥 Clinical Trial RAG System (LangChain, FAISS, OpenAI)
+- 📊 Patient Risk Stratification Pipeline (XGBoost, PyTorch, AWS)
+- 💊 Pharma Spend Analytics Dashboard (Tableau, Power BI)
+
+**Looking for:** Data Scientist, Senior Data Scientist, ML Data Scientist, and Applied Scientist roles
 
 <!---
 Shrikant-Sharma/Shrikant-Sharma is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
