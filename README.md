@@ -19,12 +19,35 @@ Data Scientist with 7+ years building ML models, statistical systems, and data p
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
-**Currently building:**
-- 🧬 Clinical Trial RAG System — LangChain, FAISS, OpenAI, Streamlit
-- 🏥 Patient Risk Stratification Pipeline — XGBoost, FastAPI, Docker, AWS
-- 📊 Pharma Spend Analytics Dashboard — Tableau, Power BI
+## 🚀 Featured Projects: Currently Building
 
-📫 [LinkedIn](https://linkedin.com/in/shrikant-sharma) · shrikant.sharma@myyahoo.com
+### 🧬 [Clinical Trial Intelligence System]
+RAG pipeline that ingests 500+ clinical trial protocols from ClinicalTrials.gov for natural language querying with source-cited responses and 85%+ retrieval relevance.
+
+**Built with:** Python, LangChain, FAISS, OpenAI, Streamlit, Docker
+
+---
+
+### 🏥 [Patient Risk Stratification Pipeline]
+End-to-end ML pipeline evaluating 5 classification models on 10K+ patient records. XGBoost achieved 0.92 AUC-ROC. Deployed as a REST API for real-time predictions.
+
+**Built with:** Python, Scikit-learn, XGBoost, FastAPI, Docker, AWS (S3, EC2)
+
+---
+
+### 📊 [Pharma Spend Analytics Dashboard]
+Interactive dashboards on 50K+ HCP payment records across 40+ regions with geographic heatmaps, trend analysis, and a 5-tier risk classification view.
+
+**Built with:** Python, Tableau, Power BI (DAX)
+
+---
+
+## 🌱 Currently Deepening
+MLOps · Model Deployment · Production ML Pipelines · Generative AI/LLMs
+
+## 📫 Let's Connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/shrikant-sharma)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:shrikant.sharma@myyahoo.com)
 <!---
 Shrikant-Sharma/Shrikant-Sharma is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
