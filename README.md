@@ -19,7 +19,7 @@ Data Scientist with 7+ years building ML models, statistical systems, and data p
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
-## 🚀 Featured Projects: Currently Building
+## 🚀 Featured Projects: Currently building
 
 ### 🧬 [Clinical Trial Intelligence System]
 RAG pipeline that ingests 500+ clinical trial protocols from ClinicalTrials.gov for natural language querying with source-cited responses and 85%+ retrieval relevance.
