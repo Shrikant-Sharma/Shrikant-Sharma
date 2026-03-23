@@ -17,6 +17,7 @@ Data Scientist with 7+ years building ML models, statistical systems, and data p
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat&logo=mlflow&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
 ## 🚀 Featured Projects: Currently building
@@ -29,9 +30,9 @@ RAG pipeline that ingests 500+ clinical trial protocols from ClinicalTrials.gov 
 ---
 
 ### 🏥 [Patient Risk Stratification Pipeline]
-End-to-end ML pipeline evaluating 5 classification models on 10K+ patient records. XGBoost achieved 0.92 AUC-ROC. Deployed as a REST API for real-time predictions.
+End-to-end ML pipeline evaluating 5 classification models on 10K+ patient records with MLflow experiment tracking. XGBoost achieved 0.92 AUC-ROC. Deployed as a REST API for real-time predictions.
 
-**Built with:** Python, Scikit-learn, XGBoost, FastAPI, Docker, AWS (S3, EC2)
+**Built with:** Python, Scikit-learn, XGBoost, MLflow, FastAPI, Docker, AWS (S3, EC2)
 
 ---
 
