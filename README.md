@@ -32,10 +32,11 @@ RAG pipeline that ingests 500+ clinical trial protocols from ClinicalTrials.gov 
 
 ---
 
-### 🏥 [Patient Risk Stratification Pipeline]
-End-to-end ML pipeline evaluating 5 classification models on 10K+ patient records with MLflow experiment tracking. XGBoost achieved 0.92 AUC-ROC. Added SHAP explainability for clinical interpretability and calibration analysis (Brier score, calibration curves). Deployed as a REST API for real-time predictions.
+### 🩺 [Patient Risk Stratification Pipeline]
 
-**Built with:** Python, Scikit-learn, XGBoost, PyTorch, SHAP, Mlflow, FastAPI, Docker, AWS(S3, EC2)
+End-to-end ML pipeline on the UCI Heart Disease dataset (303 patients, 13 clinical features). Trained 5 classification models (Logistic Regression, Random Forest, XGBoost, SVM, PyTorch NN) with MLflow experiment tracking; tuned top 3 via RandomizedSearchCV with 5-fold cross-validation. Tuned XGBoost reached 0.95 ROC-AUC with 0.93 recall at clinical operating threshold. Added SHAP TreeExplainer for global and per-patient explanations, calibration analysis (Brier score, reliability curves), and threshold tuning for clinical screening. Deployed as a REST API via FastAPI with /predict and /explain endpoints; containerized via multi-stage Docker.
+
+**Built with: Python, Scikit-learn, XGBoost, PyTorch, SHAP, MLflow, FastAPI, Pydantic, Docker, Git
 
 ---
 
