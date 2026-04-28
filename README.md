@@ -35,7 +35,7 @@ RAG pipeline that ingests 500+ clinical trial protocols from ClinicalTrials.gov 
 
 End-to-end ML pipeline on the UCI Heart Disease dataset (303 patients, 13 clinical features). Trained 5 classification models (Logistic Regression, Random Forest, XGBoost, SVM, PyTorch NN) with MLflow experiment tracking; tuned top 3 via RandomizedSearchCV with 5-fold cross-validation. Tuned XGBoost reached 0.95 ROC-AUC with 0.93 recall at clinical operating threshold. Added SHAP TreeExplainer for global and per-patient explanations, calibration analysis (Brier score, reliability curves), and threshold tuning for clinical screening. Deployed as a REST API via FastAPI with /predict and /explain endpoints; containerized via multi-stage Docker.
 
-**Built with: Python, Scikit-learn, XGBoost, PyTorch, SHAP, MLflow, FastAPI, Pydantic, Docker, Git
+**Built with:** Python, Scikit-learn, XGBoost, PyTorch, SHAP, MLflow, FastAPI, Pydantic, Docker, Git
 
 ---
 
