@@ -10,7 +10,6 @@ Data Scientist with ~8 years building ML models, statistical systems, and data p
 ![SHAP](https://img.shields.io/badge/SHAP-3776AB?style=flat&logo=python&logoColor=white)
 ![XGBoost](https://img.shields.io/badge/XGBoost-006ACC?style=flat)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
 ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat&logo=databricks&logoColor=white)
