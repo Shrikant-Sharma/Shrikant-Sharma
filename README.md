@@ -1,6 +1,6 @@
 # Hi, I'm Shrikant 👋
 
-Data Scientist with ~8 years building ML models, statistical systems, and data pipelines across pharma (Amgen) and financial services (American Express). Currently focused on ML engineering, NLP, and bringing models from notebooks to production.
+Data Scientist with ~8 years building ML models, statistical systems, and data pipelines across pharma (Amgen) and financial services (American Express). Currently building toward Senior Data Scientist and ML Engineer roles, deepening NLP, deployment, and production ML.
 
 ## 🛠️ Tech Stack
 
