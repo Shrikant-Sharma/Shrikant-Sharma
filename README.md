@@ -1,6 +1,6 @@
 # Hi, I'm Shrikant 👋
 
-Data Scientist with ~8 years building ML models, statistical systems, and data pipelines across pharma (Amgen) and financial services (American Express). Open to Senior Data Scientist and ML Engineer roles, deepening NLP, deployment, and production ML.
+Data Scientist with ~8 years across pharma (Amgen) and financial services (American Express). Building production ML and grounded RAG systems for regulated industries. Open to Senior Data Scientist, Decision Scientist, Applied Scientist, ML Engineer, and AI Engineer roles.
 
 ## 🛠️ Tech Stack
 
@@ -42,14 +42,15 @@ End-to-end ML pipeline on the UCI Heart Disease dataset (303 patients, 13 clinic
 
 ### 📊 [Pharma Compliance Spend Analytics](https://github.com/Shrikant-Sharma/pharma-compliance-spend-analytics) · [Live dashboards](https://public.tableau.com/shared/ZSDPNCN8B?:display_count=n&:origin=viz_share_link)
 
-Compliance spend analytics on real CMS Open Payments data — 16M+ federal records ($13B). Sampled 989K transactions across 289K unique HCPs and engineered HCP-level features (payment frequency, total value, geographic concentration, company diversity). Applied within-specialty z-scores and global IQR with a $500 monetary floor and concentration logic; flagged the top 1.67% as a HIGH-tier triage queue. IQR caught 30,223 HCPs that z-score alone missed. Surfaced an orthopedic device-manufacturer concentration finding (Stryker, Arthrex, Zimmer Biomet, Boston Scientific). Two interactive Tableau Public dashboards.
+Compliance spend analytics on real CMS Open Payments data: 16M+ federal records ($13B). Sampled 989K transactions across 289K unique HCPs and engineered HCP-level features (payment frequency, total value, geographic concentration, company diversity). Applied within-specialty z-scores and global IQR with a $500 monetary floor and concentration logic; flagged the top 1.67% as a HIGH-tier triage queue. IQR caught 30,223 HCPs that z-score alone missed. Surfaced an orthopedic device-manufacturer concentration finding (Stryker, Arthrex, Zimmer Biomet, Boston Scientific). Two interactive Tableau Public dashboards.
 
 **Built with:** Python (Pandas, NumPy, SciPy), Tableau, Git
 
 ---
 
 ## 🌱 Currently Deepening
-Production ML Pipelines · Model Deployment · Generative AI / LLMs · Agentic AI (LangGraph)
+Production ML Pipelines · Model Deployment · Generative AI / LLMs · Agentic AI (LangGraph) · Causal Inference
+
 
 ## 📫 Let's Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/shrikant-sharma)
