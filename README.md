@@ -12,6 +12,7 @@ Data Scientist with ~8 years across pharma (Amgen) and financial services (Ameri
 ![SHAP](https://img.shields.io/badge/SHAP-3776AB?style=flat&logo=python&logoColor=white)
 ![FAISS](https://img.shields.io/badge/FAISS-0668E1?style=flat&logo=meta&logoColor=white)
 ![RAGAS](https://img.shields.io/badge/RAGAS-FF6F00?style=flat&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
 ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat&logo=databricks&logoColor=white)
@@ -26,9 +27,9 @@ Data Scientist with ~8 years across pharma (Amgen) and financial services (Ameri
 
 ### 🧬 [Clinical Trial Intelligence System](https://github.com/Shrikant-Sharma/clinical-trial-rag) · [Live demo](https://shrikant-clinical-rag.streamlit.app)
 
-RAG pipeline over 484 ClinicalTrials.gov oncology protocols (3,264 chunks). PubMedBERT embeddings, FAISS retrieval, Groq Llama 3.3 70B with source-cited responses. Evaluated retrieval and generation with RAGAS metrics across a 25-query stress test and 3 chunking strategies; 22 of 25 outcomes matched expectation. Two-layer safety (similarity threshold + LLM refusal clause) blocked 4 of 4 adversarial-medical queries.
+Agentic RAG pipeline over 484 ClinicalTrials.gov oncology protocols (3,264 chunks). Phase 2 upgraded the baseline to a LangGraph-orchestrated **Corrective RAG (CRAG)** pattern with LLM-as-judge document relevance grading, query rewriting on poor retrieval, and bounded retries. Three independent refusal gates were empirically validated when gibberish input scored 0.91 cosine similarity but was correctly refused by the grader. PubMedBERT embeddings, FAISS retrieval, Groq Llama 3.3 70B with source-cited responses. Two-mode UI lets users A/B the agentic flow against the baseline pipeline. Evaluated retrieval and generation with RAGAS-equivalent metrics across a 25-query stress test and 3 chunking strategies.
 
-**Built with:** Python, Sentence Transformers (PubMedBERT), Groq Llama 3.3 70B, FAISS, RAGAS, Streamlit, Git
+**Built with:** Python, LangGraph, Sentence Transformers (PubMedBERT), Groq Llama 3.3 70B, FAISS, RAGAS, Streamlit, Git
 
 ---
 
@@ -49,7 +50,7 @@ Compliance spend analytics on real CMS Open Payments data: 16M+ federal records 
 ---
 
 ## 🌱 Currently Deepening
-Production ML Pipelines · Model Deployment · Generative AI / LLMs · Agentic AI (LangGraph) · Causal Inference
+Causal Inference · Survival Analysis · Apache Spark
 
 
 ## 📫 Let's Connect
