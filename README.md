@@ -43,14 +43,14 @@ End-to-end ML pipeline on the UCI Heart Disease dataset (303 patients, 13 clinic
 
 ### 📊 [Pharma Compliance Spend Analytics](https://github.com/Shrikant-Sharma/pharma-compliance-spend-analytics) · [Live dashboards](https://public.tableau.com/shared/ZSDPNCN8B?:display_count=n&:origin=viz_share_link)
 
-Compliance spend analytics on real CMS Open Payments data: 16M+ federal records ($13B). Sampled 989K transactions across 289K unique HCPs and engineered HCP-level features (payment frequency, total value, geographic concentration, company diversity). Applied within-specialty z-scores and global IQR with a $500 monetary floor and concentration logic; flagged the top 1.67% as a HIGH-tier triage queue. IQR caught 30,223 HCPs that z-score alone missed. Surfaced an orthopedic device-manufacturer concentration finding (Stryker, Arthrex, Zimmer Biomet, Boston Scientific). Two interactive Tableau Public dashboards.
+Compliance spend analytics on real CMS Open Payments data: 16M+ federal records ($13B). Sampled 989K transactions across 289K unique HCPs and engineered 5 HCP-level features. Applied within-specialty z-scores + global IQR with a $500 monetary floor and concentration logic, flagging the top 1.67% as a HIGH-tier triage queue. Layered Isolation Forest ML detection on top; reconciliation against rule-based flags surfaced three structurally distinct compliance archetypes — captured specialists (both methods agree), captured generalists (rules-only), and industry consultants (ML-only) — that no single method catches alone. Snowflake SQL quantified that top 4 device manufacturers (Arthrex, Stryker, Zimmer Biomet, Smith+Nephew) capture 59.7% of orthopaedic surgery payments. Same feature pipeline implemented across three execution backends (Pandas, Snowflake, PySpark) with cross-platform row-level equivalence verified. Two interactive Tableau Public dashboards.
 
-**Built with:** Python (Pandas, NumPy, SciPy), Tableau, Git
+**Built with:** Python (Pandas, Scikit-learn, PySpark), Snowflake, Tableau, Git
 
 ---
 
 ## 🌱 Currently Deepening
-Causal Inference · Survival Analysis · Apache Spark
+MLOps
 
 
 ## 📫 Let's Connect
