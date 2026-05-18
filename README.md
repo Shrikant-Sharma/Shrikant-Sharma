@@ -9,6 +9,8 @@ Data Scientist with ~8 years across pharma (Amgen) and financial services (Ameri
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
 ![XGBoost](https://img.shields.io/badge/XGBoost-006ACC?style=flat)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+[![PySpark](https://img.shields.io/badge/PySpark-4.1%2B-E25A1C.svg)](https://spark.apache.org/docs/latest/api/python/)
+[![Snowflake](https://img.shields.io/badge/Snowflake-Cloud-29B5E8.svg)](https://www.snowflake.com)
 ![SHAP](https://img.shields.io/badge/SHAP-3776AB?style=flat&logo=python&logoColor=white)
 ![FAISS](https://img.shields.io/badge/FAISS-0668E1?style=flat&logo=meta&logoColor=white)
 ![RAGAS](https://img.shields.io/badge/RAGAS-FF6F00?style=flat&logoColor=white)
